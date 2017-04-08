@@ -1,0 +1,5 @@
+./exactchange
+./exactchange/x86_64-linux-exactchange
+./exactchange/x86_64-linux-exactchange.static
+./exactchange/x86-linux-exactchange
+./exactchange/x86-linux-exactchange.static

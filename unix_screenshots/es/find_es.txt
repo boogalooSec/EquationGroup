@@ -1,0 +1,4 @@
+./es
+./es/es
+./es/gsh
+./es/libd.so.1

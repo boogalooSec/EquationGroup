@@ -1,0 +1,5 @@
+./shentysdelight
+./shentysdelight/ExtractData
+./shentysdelight/libWrapper.so
+./shentysdelight/Store
+./shentysdelight/user.tool.shentysdelight.COMMON

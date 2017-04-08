@@ -1,0 +1,6 @@
+./yellowspirit
+./yellowspirit/user.tool.yellowspirit.COMMON
+./yellowspirit/ys.auto
+./yellowspirit/ys.auto.old
+./yellowspirit/ys.auto.old2
+./yellowspirit/ys.ratload.sh

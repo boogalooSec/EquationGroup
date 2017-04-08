@@ -1,0 +1,4 @@
+./common/envisioncollision
+./envisioncollision
+./envisioncollision/envisioncollision
+./envisioncollision/user.tool.envisioncollision.COMMON

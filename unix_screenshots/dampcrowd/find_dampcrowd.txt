@@ -1,0 +1,6 @@
+./dampcrowd
+./dampcrowd/dampcrowd.i386-pc-solaris2.6_v.2.0.0.1
+./dampcrowd/dampcrowd.i686-pc-linux-gnu-redhat-5.0_v.2.0.0.1
+./dampcrowd/dampcrowd.pa-risc1.1_v.2.0.1.1
+./dampcrowd/dampcrowd.powerpc-aix3.4_v.2.0.0.2
+./dampcrowd/dampcrowd.sparc-sun-solaris2.5.1_v.2.0.0.1

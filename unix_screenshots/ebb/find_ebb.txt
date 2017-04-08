@@ -1,0 +1,10 @@
+./ebb
+./ebb/ebbisland
+./ebb/ebbisland.Linux_2.4.20-6.i686
+./ebb/ebbnew_linux
+./ebb/ebbshave.script
+./ebb/ebbshave.v2
+./ebb/ebbshave.v3
+./ebb/ebbshave.v4
+./ebb/ebbshave.v5
+./ebb/user.tool.ebbisland.COMMON

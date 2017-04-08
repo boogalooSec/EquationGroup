@@ -1,0 +1,7 @@
+./skimcountry
+./skimcountry/skimcountry.aix5.1_v.2.0.0.3
+./skimcountry/skimcountry__flx.aix5.1.powerpc_v.1.0.0.4
+./skimcountry/skimcountry__flx.aix5.1.powerpc_v.1.0.1.1
+./skimcountry/skimcountry.sunos5.8_v.2.0.0.3
+./skimcountry/skimcountry.v1.2.SunOS5.9.targetdl
+./skimcountry/user.tool.skimcountry.COMMON

@@ -1,0 +1,10 @@
+./exp
+./exp/exp.s
+./exp/exp.x
+./exp/su.so.2.1011s
+./exp/su.so.2.1011x
+./exp/su.so.2.6s
+./exp/su.so.2.6x
+./exp/su.so.2.789s
+./exp/su.so.2.789x
+

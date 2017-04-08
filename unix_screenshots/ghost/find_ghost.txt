@@ -1,0 +1,4 @@
+./docs/whiteghost.txt
+./ghost
+./ghost/ghost_sparc
+./ghost/ghost_x86

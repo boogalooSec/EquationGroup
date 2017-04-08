@@ -1,0 +1,14 @@
+./eleganteagle
+./eleganteagle/dict
+./eleganteagle/EE
+./eleganteagle/eerun
+./eleganteagle/eerun_test
+./eleganteagle/eleganteagle_opscript.1.0.0.6
+./eleganteagle/payload
+./eleganteagle/payload/Makefile
+./eleganteagle/payload/prepare_cgiemail_payload
+./eleganteagle/payload/prepare_mailman_privesc
+./eleganteagle/payload/prepare_python_fork_exec
+./eleganteagle/payload/prepare_shellcode_fork_exec
+./eleganteagle/payload/stage1_0x35c3d862_9_intemplate.bin
+./eleganteagle/toffeehammer

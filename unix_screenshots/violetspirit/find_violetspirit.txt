@@ -1,0 +1,6 @@
+./violetspirit
+./violetspirit/violetspirit.README
+./violetspirit/vs.attack.linux
+./violetspirit/vs.gettime.linux
+./violetspirit/vs.gettime.sol.sparc
+./violetspirit/vs.gettime.sol.x86

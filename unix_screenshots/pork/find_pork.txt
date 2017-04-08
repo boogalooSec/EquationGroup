@@ -1,0 +1,8 @@
+./pork
+./pork/inetd.gcc.v3.1.0.1
+./pork/inetd.gcc.v3.2.0.1
+./pork/porkclient.v3.0.0.1
+./pork/porkclient.v3.1.0.1
+./pork/porkclient.v3.2.0.1
+./pork/porkserver.v3.0.0.1
+./pork/user.tool.pork.COMMON

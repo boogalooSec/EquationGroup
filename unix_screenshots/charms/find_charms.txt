@@ -1,0 +1,7 @@
+./charms
+./charms/charm_saver.win2k_v.2.0.0.2
+./charms/charm_razor.linux2.6.5-7.97-smp.i686_v.2.1.0.2
+./charms/charm_saver.hpux11.00_v.2.0.0.2
+./charms/charm_razor.win2k_v.2.0.0.1
+./charms/charm_penguin.sunos5.8_v.2.0.1.4
+./charms/charm_hammer.linuxrh7.3.i686_v.1.0.0.3

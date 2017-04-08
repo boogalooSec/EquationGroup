@@ -1,0 +1,9 @@
+./dubmoat
+./dubmoat/Dubmoat_ExtractData
+./dubmoat/Dubmoat_OpNotes.txt
+./dubmoat/Dubmoat_PrintFilename
+./dubmoat/Dubmoat-sparc-solaris-1.0.0.2_Ssh
+./dubmoat/Dubmoat-sparc-solaris-1.0.0.2_TruncateFile
+./dubmoat/Dubmoat_TruncateFile
+./dubmoat/opscript.dubmoat
+./dubmoat/user.tool.dubmoat.COMMON

@@ -1,0 +1,9 @@
+./epichero
+./epichero/cleanup.script
+./epichero/eh
+./epichero/eh.1.1.0.0
+./epichero/eh.bin
+./epichero/reverse.shell.script
+./epichero/server.crt
+./epichero/server.key
+./epichero/user.tool.epichero.COMMON

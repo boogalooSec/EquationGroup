@@ -1,0 +1,3 @@
+./eldestmyriad
+./eldestmyriad/em
+./eldestmyriad/nss_dns.so.1

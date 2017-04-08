@@ -1,0 +1,15 @@
+./nopen/etc/autowrapsift
+./nopen/etc/gs.wrapsift
+./sift
+./sift/sift_-freebsd_5.0-i386_v.2.1.0.0
+./sift/sift_-freebsd_6.0-i386_v.2.1.0.0
+./sift/sift_-freebsd_7.0-i386_v.2.1.0.0
+./sift/sift_-freebsd_7.0-x86_64_v.2.1.0.0
+./sift/sift_-linux-i386_v.2.1.0.0
+./sift/sift.linux_v.2.0.1.1
+./sift/sift_-linux-x86_64_v.2.1.0.0
+./sift/sift_-solaris_2.7-sparc_v.2.1.0.0
+./sift/sift_-solaris_2.8-i386_v.2.1.0.0
+./sift/sift.solaris.sparc_v.2.0.1.1
+./sift/sift.solaris.x86_v.2.0.1.1
+./sift/wrapsift.sh.prev

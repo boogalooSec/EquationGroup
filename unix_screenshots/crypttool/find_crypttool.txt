@@ -1,0 +1,13 @@
+./crypttool
+./crypttool/crypttool.aix5.1_v.2.0.1.3
+./crypttool/crypttool.aix5.1_v.2.1.0.2
+./crypttool/crypttool.hpuxb.11.00_v.2.0.1.3
+./crypttool/crypttool.hpuxb.11.00_v.2.1.0.2
+./crypttool/crypttool.linux2.4.18-3_v.2.0.1.3
+./crypttool/crypttool.linux2.4.18-3_v.2.1.0.2
+./crypttool/crypttool.sunos5.8.i386_v.2.0.1.3
+./crypttool/crypttool.sunos5.8.i386_v.2.1.0.2
+./crypttool/crypttool.sunos5.8.sparc_v.2.0.1.3
+./crypttool/crypttool.sunos5.8.sparc_v.2.1.0.2
+./crypttool/crypttool.win2k_v.2.0.1.3
+./crypttool/crypttool.win2k_v.2.1.0.2

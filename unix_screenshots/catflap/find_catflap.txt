@@ -1,0 +1,5 @@
+./catflap
+./catflap/catflap_intel_V1
+./catflap/catflap_sparc
+./catflap/catflap
+./catflap/catflap_intel_V2

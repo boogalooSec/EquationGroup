@@ -1,0 +1,5 @@
+./magicjack
+./magicjack/magicjack_v1.0.0.1_magicjack.pl
+./magicjack/magicjack_v1.0.0.1_munge.py
+./magicjack/magicjack_v1.1.0.0_client-1.1.0.0.py
+./magicjack/magicjack_v1.1.0.0_magicjack-1.1.0.0.pl

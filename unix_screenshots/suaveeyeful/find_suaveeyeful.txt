@@ -1,0 +1,9 @@
+./suaveeyeful
+./suaveeyeful/bdes
+./suaveeyeful/decode-base64
+./suaveeyeful/implant
+./suaveeyeful/implant.mg1.waseda.ac.jp
+./suaveeyeful/opscript.se
+./suaveeyeful/se
+./suaveeyeful/se.old
+./suaveeyeful/uriescape

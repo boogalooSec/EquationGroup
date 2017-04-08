@@ -1,0 +1,11 @@
+./bs
+./bs/bs
+./bs/bs.auto
+./bs/bs.auto.old2
+./bs/bs.tn.nopen
+./bs/bs.tr_TRY_SECOND
+./bs/bs.tn.gr_USE_WHEN_bs.auto_AND_bs.tr_FAIL
+./bs/bs.ratload
+./bs/bs_test
+./bs/bs_gr
+./bs/bs.auto.old

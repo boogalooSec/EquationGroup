@@ -1,0 +1,3 @@
+./electricslide
+./electricslide/electricslide
+./electricslide/electricslide.pl
